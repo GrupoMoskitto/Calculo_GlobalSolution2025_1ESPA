@@ -49,5 +49,4 @@ Dependências:
    - A interface exibe botões para calcular a derivada em $t=10$, verificar o volume acumulado e exibir gráficos.
 
 ## Video Explicativo
-
-   ainda não fiz o video ;c
+[![Video Youtube](https://img.youtube.com/vi/JtKeJYBKplU/0.jpg)](https://www.youtube.com/watch?v=JtKeJYBKplU)
